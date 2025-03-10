@@ -10,6 +10,7 @@ I'm a software developer who is interested and engaged in  coding and problem-so
 ## 🚀 What I'm working on:
 - Currently learning about node js and building some projects using it.
 - Working on open-source contributions to projects related to frontend frameworks.
+- working on a project in design and analysis of algorithms.
 
 ## 📫 How to reach me:
 - Email: anjalisehrawat296@gmail.com
